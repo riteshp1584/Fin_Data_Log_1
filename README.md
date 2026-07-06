@@ -98,5 +98,3 @@ pip install -r requirements.txt
 - Ensure sensitive financial data is anonymized before adding to the repository.
 
 ---
-
-👉 Would you like me to also create a **requirements.txt** file listing the dependencies typically used in such financial data logging scripts, so your repo is plug-and-play?
